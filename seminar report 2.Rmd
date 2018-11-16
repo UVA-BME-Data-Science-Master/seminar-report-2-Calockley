@@ -1,0 +1,17 @@
+---
+title: "Seminar Report 2"
+author: "Cal Lockley"
+date: "November 15, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Holly Ingraham PhD
+#Professor and Associate Vice Chair of Cellular and Molecular Pharmacology
+#11/15 @ 9:30
+#The MBH - Key brain region in mediating female activity and neuroskeletal circuits
+
+#Dr. Holly Ingraham is interested in the hormone and the affect it has on physiology and health in a women. Her goal was to understand and exploit estrogen regulated neural pathways. Ingraham's research question was that they had identified a new female brain to bone pathway and that it exists as a regulator to redirect calcium from bones when energy demand is high. Her team removed the ERalpha from some female mice and found that there was a connection between that pathway through the medial basal hypothalamus. They located two segments within this part of the brain called the VMHvl and ARC. She removed ERalpha from both of these to see what occured to the female rats bones and she discovered that they both did in fact effect bone growth. When ERalpha is removed which happens with age, the rat bones grow stronger which result in the bone marrow shrinking creating a problems for the female rat with their bone marrow. Take home messages is that this might be a similar issue in aging women as well. As they get older and produce less estrogen due to them not needed to reproduce, it can also result in the degeneration of the bone marrow which can cause problems in aging women. I remembered from lecture that she mentioned ChIP-seq, which is directly related to our project, but I cannot remember what she used it for and did not write it down. Because this requires the patient to be living, how would she plan to test if this also happens in women? She also mentioned an unknown potential hormone and another question I would have for her is how she would go about finding it?
